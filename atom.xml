@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://www.xiaonaigou.club/"/>
-  <updated>2019-04-25T17:35:10.110Z</updated>
+  <updated>2020-02-04T19:28:39.503Z</updated>
   <id>https://www.xiaonaigou.club/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>upload总结</title>
+    <link href="https://www.xiaonaigou.club/2020/02/05/upload%E6%80%BB%E7%BB%93/"/>
+    <id>https://www.xiaonaigou.club/2020/02/05/upload%E6%80%BB%E7%BB%93/</id>
+    <published>2020-02-04T19:25:55.000Z</published>
+    <updated>2020-02-04T19:28:39.503Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="收集的一些关于上传的知识点"><a href="#收集的一些关于上传的知识点" class="headerlink" title="收集的一些关于上传的知识点"></a>收集的一些关于上传的知识点</h2><p><img src="/img/upload%E7%BB%95%E8%BF%87%E5%A7%BF%E5%8A%BF.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;收集的一些关于上传的知识点&quot;&gt;&lt;a href=&quot;#收集的一些关于上传的知识点&quot; class=&quot;headerlink&quot; title=&quot;收集的一些关于上传的知识点&quot;&gt;&lt;/a&gt;收集的一些关于上传的知识点&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/img/upload%E7%B
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>WebLogic_wls9-async_反序列化漏洞</title>
